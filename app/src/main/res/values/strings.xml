@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Sample Constraint Layout</string>
     <string name="Labellogin">Login</string>
+    <string name="Labelprofil">User Profile</string>
     <string name="tEmail">Email</string>
     <string name="tPasswords">Passwords</string>
     <string name="bsingin">Sing-In</string>

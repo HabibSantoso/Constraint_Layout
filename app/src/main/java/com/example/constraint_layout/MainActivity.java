@@ -2,6 +2,7 @@ package com.example.constraint_layout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -63,21 +64,29 @@ public class MainActivity extends AppCompatActivity {
 
                 if (email.equals(bankEmail)){
                     if (passwords.equals(bankPass)){
+
+                        Bundle b = new Bundle();
+                        b.putString("a", email.trim());
+                        b.putString("b", passwords.trim());
+
+                        Intent i = new Intent(getApplicationContext(), ProfileActivity.class);
+
+                        i.putExtras(b);
+
+                        startActivity(i);
                         t.show();
+
+                        edemail.getText().clear();
+                        edpasswords.getText().clear();
                     }else {
                         edpasswords.setText(null);
                         fP.show();
                     }
-                }if (passwords.equals(bankPass)){
-                    edemail.setText(null);
-                    edpasswords.setText(null);
-
-                    fE.show();
                 }else {
                     edemail.setText(null);
                     edpasswords.setText(null);
 
-                    fA.show();
+                    fE.show();
                 }
 
             }
