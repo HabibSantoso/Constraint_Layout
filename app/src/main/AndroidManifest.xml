@@ -19,9 +19,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:parentActivityName=".MainActivity"
             android:name=".ProfileActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SingUpActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>

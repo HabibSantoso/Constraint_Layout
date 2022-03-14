@@ -5,4 +5,12 @@
     <string name="tEmail">Email</string>
     <string name="tPasswords">Passwords</string>
     <string name="bsingin">Sing-In</string>
+    <string name="mnsingup">Sing-Up</string>
+    <string name="Labelsingup">Buat Akun Baru</string>
+    <string name="upnama">Masukan Nama</string>
+    <string name="upemail">Masukan e-Mail</string>
+    <string name="uppass">Masukan Password</string>
+    <string name="uprepass">Ulangi password</string>
+    <string name="upaddress">Masukan Alamat</string>
+    <string name="bsingup">Sing-Up</string>
 </resources>
