@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Mata_Kuliah/Semester 8/TI4405_Pengembangan Aplikasi Mobile/Projects/Constraint_Layout/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Mata_Kuliah/Semester 8/TI4405_Pengembangan Aplikasi Mobile/Projects/Constraint_Layout/app/src/main/res/layout/activity_main.xml" value="0.1897644927536232" />
         <entry key="..\:/Mata_Kuliah/Semester 8/TI4405_Pengembangan Aplikasi Mobile/Projects/Constraint_Layout/app/src/main/res/layout/activity_profile.xml" value="0.25" />
         <entry key="..\:/Mata_Kuliah/Semester 8/TI4405_Pengembangan Aplikasi Mobile/Projects/Constraint_Layout/app/src/main/res/layout/activity_sing_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mata_Kuliah/Semester 8/TI4405_Pengembangan Aplikasi Mobile/Projects/Constraint_Layout/app/src/main/res/layout/item_listview.xml" value="0.25416666666666665" />
         <entry key="..\:/Mata_Kuliah/Semester 8/TI4405_Pengembangan Aplikasi Mobile/Projects/Constraint_Layout/app/src/main/res/menu/menu_singin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mata_Kuliah/Semester 8/TI4405_Pengembangan Aplikasi Mobile/Projects/Constraint_Layout/app/src/main/res/menu/popup_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
