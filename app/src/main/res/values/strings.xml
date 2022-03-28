@@ -13,4 +13,11 @@
     <string name="uprepass">Ulangi password</string>
     <string name="upaddress">Masukan Alamat</string>
     <string name="bsingup">Sing-Up</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomer Telepon</string>
 </resources>
