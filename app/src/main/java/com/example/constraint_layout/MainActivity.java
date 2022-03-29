@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
                         b.putString("a", email.trim());
                         b.putString("b", passwords.trim());
 
-                        Intent i = new Intent(getApplicationContext(), ProfileActivity.class);
+                        Intent i = new Intent(getApplicationContext(), HomeActivity.class);
 
                         i.putExtras(b);
 
